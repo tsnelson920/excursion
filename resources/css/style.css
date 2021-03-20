@@ -1,3 +1,5 @@
+/*General Code */
+
 body {
     background-color: black;
     text-align: center;
@@ -9,10 +11,14 @@ h1 {
     text-align: center;
 }
 
+/*Link Styling */
+
 p a {
     color: aquamarine;
     font-size: 16px;
 }
+
+/*Text Styling */
 
 .big {
     font-size: 50px;
@@ -36,6 +42,8 @@ footer {
     color: gray;
     font-size: 21px;
 }
+
+/*Image Styling */
 
 .coming-soon img {
     margin-top: 20px;
