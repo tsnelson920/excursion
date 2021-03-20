@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.big {
+    font-size: 50px;
+    font-weight: normal;
+    margin-bottom: 38px;
+}
+
+.small {
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 45px;
+}
+
+.travel-guide p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+
+.coming-soon img {
+    margin-top: 20px;
+}
+
+.phone video {
+    position: relative;
+    top: 50px;
+}
